@@ -1,0 +1,6 @@
+{
+  "name": "AR Ruler: Tape Measure Cam",
+  "description": "Augmented Reality tape measure and laser distance cam with real-time 3D crosshair, area, height, angle protractor, spirit level, and AI visual object measurement.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

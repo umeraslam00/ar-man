@@ -1,0 +1,12 @@
+{
+  "appId": "com.arruler.tapemeasure",
+  "appName": "AR Ruler: Tape Measure Cam",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

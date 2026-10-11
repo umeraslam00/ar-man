@@ -1,0 +1,58 @@
+{
+  "id": "/",
+  "name": "AR Ruler: Tape Measure Cam",
+  "short_name": "AR Ruler",
+  "description": "Augmented Reality tape measure and laser distance cam with real-time 3D crosshair, area, height, angle protractor, spirit level, and AI visual object measurement.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait",
+  "theme_color": "#facc15",
+  "background_color": "#0a0a0a",
+  "lang": "en",
+  "categories": ["utilities", "productivity", "tools"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "AR Tape Measure Cam Desktop View"
+    },
+    {
+      "src": "/screenshot-narrow.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "AR Tape Measure Cam Mobile View"
+    }
+  ],
+  "prefer_related_applications": false
+}
